@@ -17,6 +17,10 @@ Well-versed in Front-End development. Good at PHP (Laravel), ReactJs, NextJS, an
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=loanngo99&theme=merko&border_radius=10)](https://git.io/streak-stats) 
 
+🚀 * 🚀 * 🚀 * 👩🏻‍🚀
+
+[![Emma github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=loanngo99&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## My Recent Articles
 
 * [Native PHP: How to Start?](https://medium.com/@emma.ngo1110/native-php-how-to-start-911b27b40791)
