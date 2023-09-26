@@ -13,6 +13,9 @@ Well-versed in Front-End development. Good at PHP (Laravel), ReactJs, NextJS, an
 
 ✍️ I am also passionate about writing and sharing my experiences. If you are interested in learning more about my work or simply want to connect with a fellow developer, please follow me on forums like [Medium](https://medium.com/@emma.ngo1110) or [dev.to](https://dev.to/loanngo99).
 
+
+[![Emma StackOverflow](https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/22238770)](https://stackoverflow.com/users/22238770/emma-ngo)
+
 ## GitHub Streak Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=loanngo99&theme=merko&border_radius=10)](https://git.io/streak-stats) 
