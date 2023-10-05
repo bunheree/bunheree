@@ -1,6 +1,6 @@
 # About Me
 
-👋 Hey everyone, I'm <b>[Emma Ngo](https://bunhere.com)</b> <br>
+👋 Hey everyone, I'm <b>[Emma Ngo](https://me.bunhere.com)</b> <br>
 <b>✨Fullstack Web Developer✨</b>
 - <img align="center" src="./images/icon/linkedin.png" title = "Twitter" alt="" height="20" /> [in/loanngo99](https://www.linkedin.com/in/loanngo99/) 
 - <img align="center" src="./images/icon/medium.png" title = "Twitter" alt="" height="20" /> [Emma Ngo](https://medium.com/@emma.ngo1110)
@@ -30,4 +30,4 @@ Well-versed in Front-End development. Good at PHP (Laravel), ReactJs, NextJS, an
 * [Making a Simple GitHub Profile](https://medium.com/@emma.ngo1110/making-a-simple-github-profile-13bd26a7f4d3)
 * [[Material Web 1.0] Material Design with a Web Platform (P1)](https://medium.com/@emma.ngo1110/material-web-1-0-material-design-with-a-web-platform-p1-efc850f36cdf)
 
-You can find all of my blog posts on my website: [bunhere.com](https://bunhere.com/blogs)
+You can find all of my blog posts on my website: [bunhere.com](https://bunhere.com/)
