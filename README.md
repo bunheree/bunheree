@@ -31,3 +31,9 @@ Well-versed in Front-End development. Good at PHP (Laravel), ReactJs, NextJS, an
 * [[Material Web 1.0] Material Design with a Web Platform (P1)](https://medium.com/@emma.ngo1110/material-web-1-0-material-design-with-a-web-platform-p1-efc850f36cdf)
 
 You can find all of my blog posts on my website: [bunhere.com](https://bunhere.com/)
+
+## Licenses & certifications
+
+|     |     |
+| --- | --- |
+| [![IT support](./images/imgs/GCC_badge_IT_Support_1000x1000.png)](https://www.credly.com/badges/b8062aec-7982-45f5-99ea-3aa5b41d4669)  | [![PM](./images/imgs/GCC_badge_PGM_1000x1000.png)](https://www.credly.com/badges/42a22304-3d12-49a1-a01a-689bd652b892)  | 
