@@ -28,12 +28,13 @@ Well-versed in Front-End development. Good at PHP (Laravel), ReactJs, NextJS, an
 
 * [Native PHP: How to Start?](https://medium.com/@emma.ngo1110/native-php-how-to-start-911b27b40791)
 * [Making a Simple GitHub Profile](https://medium.com/@emma.ngo1110/making-a-simple-github-profile-13bd26a7f4d3)
-* [[Material Web 1.0] Material Design with a Web Platform (P1)](https://medium.com/@emma.ngo1110/material-web-1-0-material-design-with-a-web-platform-p1-efc850f36cdf)
+* [[Material Web 1.0] Material Design with a Web Platform](https://medium.com/@emma.ngo1110/material-web-1-0-material-design-with-a-web-platform-p1-efc850f36cdf)
+* [Basic Overview of SEO for Fresher Web Developers](https://medium.com/@emma.ngo1110/basic-overview-of-seo-for-fresher-web-developers-7aebcd792679)
 
 You can find all of my blog posts on my website: [bunhere.com](https://bunhere.com/)
 
-## Licenses & certifications
+<!-- ## Licenses & certifications
 
 |     |     |
 | --- | --- |
-| [![IT support](./images/imgs/GCC_badge_IT_Support_1000x1000.png)](https://www.credly.com/badges/b8062aec-7982-45f5-99ea-3aa5b41d4669)  | [![PM](./images/imgs/GCC_badge_PGM_1000x1000.png)](https://www.credly.com/badges/42a22304-3d12-49a1-a01a-689bd652b892)  | 
+| [![IT support](./images/imgs/GCC_badge_IT_Support_1000x1000.png)](https://www.credly.com/badges/b8062aec-7982-45f5-99ea-3aa5b41d4669)  | [![PM](./images/imgs/GCC_badge_PGM_1000x1000.png)](https://www.credly.com/badges/42a22304-3d12-49a1-a01a-689bd652b892)  |  -->
