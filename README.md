@@ -13,7 +13,6 @@ Well-versed in Front-End development. Good at PHP (Laravel), ReactJs, NextJS, an
 
 ✍️ I am also passionate about writing and sharing my experiences. If you are interested in learning more about my work or simply want to connect with a fellow developer, please follow me on forums like [Medium](https://medium.com/@emma.ngo1110) or [dev.to](https://dev.to/loanngo99).
 
-
 [![Emma StackOverflow](https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/22238770)](https://stackoverflow.com/users/22238770/emma-ngo)
 
 ## GitHub Streak Stats
@@ -22,7 +21,7 @@ Well-versed in Front-End development. Good at PHP (Laravel), ReactJs, NextJS, an
 
 🚀 * 🚀 * 🚀 * 👩🏻‍🚀
 
-[![Emma github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=loanngo99&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Emma github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=loanngo99&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## My Recent Articles
 
@@ -33,8 +32,13 @@ Well-versed in Front-End development. Good at PHP (Laravel), ReactJs, NextJS, an
 
 You can find all of my blog posts on my website: [bunhere.com](https://bunhere.com/)
 
-<!-- ## Licenses & certifications
+<details>
+  <summary>Licenses & certifications</summary>
+  
+  ## Licenses & certifications
 
-|     |     |
-| --- | --- |
-| [![IT support](./images/imgs/GCC_badge_IT_Support_1000x1000.png)](https://www.credly.com/badges/b8062aec-7982-45f5-99ea-3aa5b41d4669)  | [![PM](./images/imgs/GCC_badge_PGM_1000x1000.png)](https://www.credly.com/badges/42a22304-3d12-49a1-a01a-689bd652b892)  |  -->
+  |     |     |
+  | --- | --- |
+  | [![IT support](./images/imgs/GCC_badge_IT_Support_1000x1000.png)](https://www.credly.com/badges/b8062aec-7982-45f5-99ea-3aa5b41d4669)  | [![PM](./images/imgs/GCC_badge_PGM_1000x1000.png)](https://www.credly.com/badges/42a22304-3d12-49a1-a01a-689bd652b892)  | 
+  
+</details>
