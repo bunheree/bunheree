@@ -25,11 +25,11 @@ Well-versed in Front-End development. Good at PHP (Laravel), ReactJs, NextJS, an
 
 ## My Recent Articles
 
-* [Native PHP: How to Start?](https://medium.com/@emma.ngo1110/native-php-how-to-start-911b27b40791)
-* [Making a Simple GitHub Profile](https://medium.com/@emma.ngo1110/making-a-simple-github-profile-13bd26a7f4d3)
+* [Native PHP: How to Start?](https://medium.com/p/911b27b40791)
 * [[Material Web 1.0] Material Design with a Web Platform](https://medium.com/@emma.ngo1110/material-web-1-0-material-design-with-a-web-platform-p1-efc850f36cdf)
-* [Basic Overview of SEO for Fresher Web Developers](https://medium.com/@emma.ngo1110/basic-overview-of-seo-for-fresher-web-developers-7aebcd792679)
-* [Turn your website into a mobile app with PWA](https://medium.com/@emma.ngo1110/turn-your-website-into-a-mobile-app-with-pwa-5451838798cc)
+* [Basic Overview of SEO for Fresher Web Developers](https://medium.com/p/7aebcd792679)
+* [Turn your website into a mobile app with PWA](https://medium.com/p/5451838798cc)
+* [Easy way to build your own SHORTEN URL WebApp with NextJS](https://medium.com/p/17ae9152a74f)
 
 You can find all of my blog posts on my website: [bunhere.com](https://bunhere.com/)
 
