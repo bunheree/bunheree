@@ -1,11 +1,14 @@
 # About Me
 
-👋 Hey everyone, I'm <b>[Emma Ngo](https://me.bunhere.com)</b> <br>
-<b>✨Fullstack Web Developer✨</b>
+👋 Hey everyone, I'm ***[Emma Ngo](https://me.bunhere.com)*** <br>
+**✨Fullstack Web Developer✨**
+
 - <img align="center" src="./images/icon/linkedin.png" title = "Twitter" alt="" height="20" /> [in/loanngo99](https://www.linkedin.com/in/loanngo99/) 
-- <img align="center" src="./images/icon/medium.png" title = "Twitter" alt="" height="20" /> [Emma Ngo](https://medium.com/@emma.ngo1110)
+
+- <img align="center" src="./images/icon/medium.png" title = "Twitter" alt="" height="20" /> [Emma N.](https://bunhere.medium.com/)
+
 - <img align="center" src="./images/icon/devto.png" title = "Twitter" alt="" height="20" /> [dev.to/loanngo99](https://dev.to/loanngo99).
-- <img align="center" src="./images/icon/mail.webp" title = "Twitter" alt="" height="20" /> emma.ngo1110@gmail.com
+
 - <img align="center" src="./images/icon/gg.png" title = "Twitter" alt="" width="20" /> [profile/u/buncode](https://developers.google.com/profile/u/buncode)
 
 🖥️ I'm a full stack developer with a passion for building beautiful, functional, and scalable web applications. <br>
@@ -25,11 +28,9 @@ Well-versed in Front-End development. Good at PHP (Laravel), ReactJs, NextJS, an
 
 ## My Recent Articles
 
-* [Native PHP: How to Start?](https://medium.com/p/911b27b40791)
-* [[Material Web 1.0] Material Design with a Web Platform](https://medium.com/@emma.ngo1110/material-web-1-0-material-design-with-a-web-platform-p1-efc850f36cdf)
-* [Basic Overview of SEO for Fresher Web Developers](https://medium.com/p/7aebcd792679)
 * [Turn your website into a mobile app with PWA](https://medium.com/p/5451838798cc)
 * [Easy way to build your own SHORTEN URL WebApp with NextJS](https://medium.com/p/17ae9152a74f)
+* [Building a Pick-Me Game with Next.js and Google Sheets Integration API](https://medium.com/p/0418b27a49b9)
 
 You can find all of my blog posts on my website: [bunhere.com](https://bunhere.com/)
 
