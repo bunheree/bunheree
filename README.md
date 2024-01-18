@@ -28,8 +28,8 @@ Well-versed in Front-End development. Good at PHP (Laravel), ReactJs, NextJS, an
 
 ## My Recent Articles
 
+* [Create a portfolio website without coding. Why not??](https://bunhere.medium.com/519fe2a9ad78)
 * [Turn your website into a mobile app with PWA](https://medium.com/p/5451838798cc)
-* [Easy way to build your own SHORTEN URL WebApp with NextJS](https://medium.com/p/17ae9152a74f)
 * [Building a Pick-Me Game with Next.js and Google Sheets Integration API](https://medium.com/p/0418b27a49b9)
 
 You can find all of my blog posts on my website: [bunhere.com](https://bunhere.com/)
