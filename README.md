@@ -9,7 +9,7 @@
 
 - <img align="center" src="./images/icon/devto.png" title = "Twitter" alt="" height="20" /> [dev.to/loanngo99](https://dev.to/loanngo99).
 
-- <img align="center" src="./images/icon/gg.png" title = "Twitter" alt="" width="20" /> [profile/u/buncode](https://developers.google.com/profile/u/buncode)
+- <img align="center" src="./images/icon/gg.png" title = "Twitter" alt="" width="20" /> [profile/u/bunhere](https://developers.google.com/profile/u/bunhere)
 
 🖥️ I'm a full stack developer with a passion for building beautiful, functional, and scalable web applications. <br>
 Well-versed in Front-End development. Good at PHP (Laravel), ReactJs, NextJS, and CSS for web applications.
