@@ -3,11 +3,11 @@
 👋 Hey everyone, I'm ***[Emma Ngo](https://me.bunhere.com)*** <br>
 **✨Fullstack Web Developer✨**
 
-- <img align="center" src="./images/icon/linkedin.png" title = "Twitter" alt="" height="20" /> [in/loanngo99](https://www.linkedin.com/in/loanngo99/) 
+- <img align="center" src="./images/icon/linkedin.png" title = "Twitter" alt="" height="20" /> [in/bunhere](https://www.linkedin.com/in/bunhere)
 
-- <img align="center" src="./images/icon/medium.png" title = "Twitter" alt="" height="20" /> [Emma N.](https://bunhere.medium.com/)
+- <img align="center" src="./images/icon/medium.png" title = "Twitter" alt="" height="20" /> [bunhere.](https://bunhere.medium.com/)
 
-- <img align="center" src="./images/icon/devto.png" title = "Twitter" alt="" height="20" /> [dev.to/loanngo99](https://dev.to/loanngo99).
+- <img align="center" src="./images/icon/devto.png" title = "Twitter" alt="" height="20" /> [dev.to/bunhere](https://dev.to/bunhere).
 
 - <img align="center" src="./images/icon/gg.png" title = "Twitter" alt="" width="20" /> [profile/u/bunhere](https://developers.google.com/profile/u/bunhere)
 
