@@ -3,13 +3,13 @@
 👋 Hey everyone, I'm ***[Emma Ngo](https://me.bunhere.com)*** <br>
 **✨Fullstack Web Developer✨**
 
-- <img align="center" src="./images/icon/linkedin.png" title = "Twitter" alt="" height="20" /> [in/bunhere](https://www.linkedin.com/in/bunhere)
+* <img align="center" src="./images/icon/linkedin.png" title = "Twitter" alt="" height="20" /> [in/bunhere](https://www.linkedin.com/in/bunhere)
 
-- <img align="center" src="./images/icon/medium.png" title = "Twitter" alt="" height="20" /> [bunhere.](https://bunhere.medium.com/)
+* <img align="center" src="./images/icon/medium.png" title = "Twitter" alt="" height="20" /> [bunhere.](https://bunhere.medium.com/)
 
-- <img align="center" src="./images/icon/devto.png" title = "Twitter" alt="" height="20" /> [dev.to/bunhere](https://dev.to/bunhere).
+* <img align="center" src="./images/icon/devto.png" title = "Twitter" alt="" height="20" /> [dev.to/bunhere](https://dev.to/bunhere).
 
-- <img align="center" src="./images/icon/gg.png" title = "Twitter" alt="" width="20" /> [profile/u/bunhere](https://developers.google.com/profile/u/bunhere)
+* <img align="center" src="./images/icon/gg.png" title = "Twitter" alt="" width="20" /> [profile/u/bunhere](https://developers.google.com/profile/u/bunhere)
 
 🖥️ I'm a full stack developer with a passion for building beautiful, functional, and scalable web applications. <br>
 Well-versed in Front-End development. Good at PHP (Laravel), ReactJs, NextJS, and CSS for web applications.
@@ -33,14 +33,3 @@ Well-versed in Front-End development. Good at PHP (Laravel), ReactJs, NextJS, an
 * [Building a Pick-Me Game with Next.js and Google Sheets Integration API](https://medium.com/p/0418b27a49b9)
 
 You can find all of my blog posts on my website: [bunhere.com](https://bunhere.com/)
-
-<details>
-  <summary>Licenses & certifications</summary>
-  
-  ## Licenses & certifications
-
-  |     |     |
-  | --- | --- |
-  | [![IT support](./images/imgs/GCC_badge_IT_Support_1000x1000.png)](https://www.credly.com/badges/b8062aec-7982-45f5-99ea-3aa5b41d4669)  | [![PM](./images/imgs/GCC_badge_PGM_1000x1000.png)](https://www.credly.com/badges/42a22304-3d12-49a1-a01a-689bd652b892)  | 
-  
-</details>
