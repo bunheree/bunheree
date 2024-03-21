@@ -24,6 +24,8 @@ Well-versed in Front-End development. Good at PHP (Laravel), ReactJs, NextJS, an
 
 🚀 * 🚀 * 🚀 * 👩🏻‍🚀
 
+[![EmmaNgo's github stats](https://github-readme-stats.vercel.app/api?username=bunheree&show_icons=true&theme=merko&count_private=true)](https://github.com/bunheree/)
+
 [![Emma github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bunheree&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## My Recent Articles
