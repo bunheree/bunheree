@@ -28,10 +28,9 @@ Well-versed in Front-End development. Good at PHP (Laravel), ReactJs, NextJS, an
 
 [![Emma github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bunheree&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## My Recent Articles
+## Bun's Articles
 
 * [Optimize Command Line Usage with Amazon CodeWhisperer](https://bunhere.medium.com/277e66ac0019)
-* [Learn about push notification types! And the effective Push Notification elements](https://bunhere.medium.com/45e718bdf5bc)
 * [Turn your website into a mobile app with PWA](https://medium.com/p/5451838798cc)
 * [Building a Pick-Me Game with Next.js and Google Sheets Integration API](https://medium.com/p/0418b27a49b9)
 
