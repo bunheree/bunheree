@@ -1,7 +1,7 @@
 # About Me
 
 👋 Hey everyone, I'm ***[Emma Ngo](https://me.bunhere.com)*** <br>
-**✨Fullstack Web Developer✨**
+**✨Software Engineer | Women Techmakers Ambassador✨**
 
 * <img align="center" src="./images/icon/linkedin.png" title = "Twitter" alt="" height="20" /> [in/bunhere](https://www.linkedin.com/in/bunhere)
 
